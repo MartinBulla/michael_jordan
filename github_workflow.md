@@ -9,11 +9,13 @@
 
 ***
 
-#### Resources ####
-- [Branching standards & conventions](https://gist.github.com/digitaljhelms/4287848): Great way to desing the workflow with two main branches (*stabel* - last stable code and *master* - the working version of the code). The development branches out from *master* 
-- [Git merge master into local branch](https://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch)
-- [Vincent Driessen’s "git flow" branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- ["Git-flow" info](https://jeffkreeftmeijer.com/git-flow/)
+[Vincent Driessen’s "git flow" branching model:](https://nvie.com/posts/a-successful-git-branching-model/)
+
+<img src="https://nvie.com/img/git-model@2x.png" width="500"/>
 
 ***
-![](https://nvie.com/img/git-model@2x.png)
+
+#### Further resources ####
+- [Branching standards & conventions](https://gist.github.com/digitaljhelms/4287848): Great way to desing the workflow with two main branches (*stabel* - last stable code and *master* - the working version of the code). The development branches out from *master* 
+- [Git merge master into local branch](https://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch)
+- ["Git-flow" info](https://jeffkreeftmeijer.com/git-flow/)
